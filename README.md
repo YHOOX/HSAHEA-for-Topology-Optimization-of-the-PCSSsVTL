@@ -1,2 +1,10 @@
 # HSAHEA-for-Topology-Optimization-of-the-PCSSsVTL
-A hybrid surrogate-assisted hierarchical evolutionary algorithm is proposed for the design of sandwich structures based on an innovative explicit geometric modeling framework. Firstly, a polyline-based core sandwich structure with variable thickness and layout (PCSSsVTL) is constructed to synchronously optimize core layout and thickness parameters
+# Source Code for Paper: Hybrid Surrogate Model-assisted Hierarchical Evolutionary Algorithm for Topology Optimization of the Polyline-based Core Sandwich Structures with Variable Thickness and Layout
+> The complete source code will be released immediately after the official publication of this manuscript.
+
+## Pre-release note
+At the current revision stage, the code is temporarily reserved. Once the paper is accepted and published, all MATLAB scripts, surrogate model and optimization routines will be uploaded here for reproducibility.
+
+## Environment
+- MATLAB R2022+
+- Optimization Toolbox, Global Optimization Toolbox
